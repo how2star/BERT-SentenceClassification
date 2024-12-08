@@ -1,2 +1,2 @@
 # BERT-SentenceClassification
-BERT模型下游任务————文本分类
+BERT模型下游任务：文本分类
